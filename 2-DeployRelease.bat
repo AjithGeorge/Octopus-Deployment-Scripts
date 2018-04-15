@@ -1,0 +1,1 @@
+start cmd /c py script2.py

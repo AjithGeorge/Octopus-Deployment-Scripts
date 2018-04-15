@@ -1,0 +1,16 @@
+Octopus-username 		= 	<"YourUsername"> 
+Octopus-password 		= 	<"YourPassword">
+-----------------------------------------------------------------------------
+Specific_Package_Version 	= 	<"8.69.0.36256-pr4870">
+Release_Version_Name		=	<"8.69.0.36256-pr4870-V2">
+-----------------------------------------------------------------------------
+channel				=	<"ChannelName">
+-----------------------------------------------------------------------------
+deploy_to			=	<"EnvironmentName">
+-----------------------------------------------------------------------------
+Block on Dataloss (true or false)				=	<"false">
+Deploy Schema Update to target DB (true or false)?		=	<"true">
+DBRestoreSource	(options: none, baseline, prune, testdb)?	=	<"none">
+Use Guidedfailure (true or false)?				=	<"true">
+
+------------------------------------EOF---------------------------------------
