@@ -1,0 +1,5 @@
+Steps to Use;
+Download/Clone the full package to local Machine.
+Update the Versions.txt File with the details.
+Run the Script1.py/ 1-ReleaseCreate.bat for Creating the Release.
+Run the Script2.py/ 2-DeployRelease.bat for Deploying the Release to the Target Environment.
